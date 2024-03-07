@@ -1,22 +1,22 @@
-# Presentation Repository 📚💻
+<h1 align="center">Academic Repository 🎓📚</h1>
 
-Welcome to my presentation repository! This repository contains a collection of PowerPoint presentations and their corresponding PDFs. Each presentation follows the structure: year-month-subject-field. The presentations in this repository span from my bachelor thesis and cover various topics within my field of interest.
+Welcome to my Academic Repository! This space is a central archive for my scholarly work during my master's degree, including presentations, reports, research papers, and my thesis. Designed for easy navigation, this repository is organized to reflect the diversity of my academic interests and efforts.
 
-## Presentation Structure 📅📝🔬
+## 🌟 What is Academic Repository
 
-Each presentation in this repository follows a consistent structure:
+A comprehensive portfolio showcasing my academic contributions, this repository contains a variety of documents crafted throughout my master's degree. It aims to serve as a valuable resource for reference and educational purposes by organizing these documents by the time of creation and subject matter.
 
-- **Year**: The year the presentation was created.
-- **Month**: The month the presentation was created.
-- **Subject**: A brief description of the presentation's topic.
-- **Field**: The specific field or domain to which the presentation relates.
+## 🚀 Getting Started
 
-## Usage 🎓🔍
+Documents within this repository are organized according to `year/month_number-[subject_code]-title`, making it straightforward to locate materials based on their creation date or subject. Here's how to understand the structure:
 
-Feel free to explore and use the presentations for educational or reference purposes. If you find any of the presentations helpful, I encourage you to cite them appropriately.
+- **Year**: The creation year of the document.
+- **Month_Number**: Numeric representation of the creation month.
+- **[Subject_Code]**: (Optional) A specific subject's code enclosed in square brackets.
+- **Title**: A brief description or title of the document.
 
-## Feedback and Support 💬🆘
+## 💬 Feedback and Support
 
-If you have any feedback, suggestions, or questions regarding the presentations or this repository, please feel free to open an issue or contact me directly.
+I welcome any feedback, suggestions, or questions you may have about this repository. Please don't hesitate to open an issue or contact me directly.
 
-Thank you for visiting this repository, and I hope you find the presentations valuable! 🙌✨
+Thank you for exploring my Academic Repository. I hope it proves to be a valuable and insightful resource for your academic pursuits! 🙌✨
